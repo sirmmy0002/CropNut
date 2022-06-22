@@ -1,0 +1,64 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+    font-size: 20px;
+}
+.logo img{
+    height: 200px;
+    width: 200px;
+    padding-left: 20;
+}
+
+li{
+    text-align: center;
+    display: flex;
+    
+
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 200px;
+}
+nav ul li {
+    margin-left: 50px;
+    color: black;
+}
+nav ul li a {
+    color: black;
+}
+
+h2 u {
+    font-size: 50px;
+    align-items: center;
+}
+.call img{
+height: 60px;
+width: 60px;
+}
+
+.greenhouse img{
+    height: 50%;
+    width: 100%;
+    
+}
+p{
+    font-size: 20px;
+    margin-left: 10%;
+}
+.call{
+    display: flex;
+    align-items: center;
+}
+div id{
+    font-size: 40px;
+}
