@@ -67,3 +67,7 @@ display: grid;
 grid-template-columns: auto auto;
 gap: 10px;    
 }
+.sprinkler img{
+    width: 40px;
+    height:20px ;
+}
