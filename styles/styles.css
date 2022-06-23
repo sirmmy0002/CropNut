@@ -67,7 +67,15 @@ display: grid;
 grid-template-columns: auto auto;
 gap: 10px;    
 }
-.sprinkler img{
-    width: 40px;
-    height:20px ;
+.grid-container img{
+    width: 80%;
+    height:80% ;
+}
+div h3{
+    font-size: 250%;
+    
+}
+.truck img{
+    height: 7%;
+    width: 7%;
 }
