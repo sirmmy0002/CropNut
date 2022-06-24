@@ -22,7 +22,7 @@ As a user of the application,you will be able to :
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
 |  Enter your name  |   Samuel Ndung'u|     |
-|press click me | Hello samuel we are happy to host you |
+|press click me | Hello samuel welcome to CropNut we are happy to host you |
  ###  Requirements
  * Access to  a computer or Mobile phone
  * Access to internet
