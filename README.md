@@ -28,7 +28,7 @@ As a user of the application,you will be able to :
  * Access to internet
  ### Installation Process
  ****
-* Clone to the repo : git clone 
+* Clone to the repo : git clone https://github.com/sirmmy0002/CropNut/tree/working
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
